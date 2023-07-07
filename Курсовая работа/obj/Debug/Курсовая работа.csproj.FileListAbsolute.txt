@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Data.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.ResolveComReference.cache
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Start.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.B1.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Answers.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.B2.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Finish.resources
+C:\Users\1\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Hystory.resources
